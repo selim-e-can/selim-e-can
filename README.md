@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Einsteinium-99
-- 👀 I’m interested in ...Engineering
-- 🌱 I’m currently learning ... Machine Learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!--
-Einsteinium-99/Einsteinium-99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Selim Emir Can
+- 👀 I’m interested in Electrical/Mechanical Engineering and want to specialize in robotics/mechatronics
+- 🌱 I’m currently learning Machine Learning, Quantum Physics, and Topology
+- 💞️ I’m looking to collaborate on projects involving robotic actuation and sensing or perception systems, 
+- 📫 How to reach me: emir2903@gmail.com
