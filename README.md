@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Selim Emir Can
-- 👀 I’m interested in Electrical/Mechanical Engineering and want to specialize in robotics/mechatronics
-- 🌱 I’m currently learning Machine Learning, Quantum Physics, and Topology
-- 💞️ I’m looking to collaborate on projects involving robotic actuation and sensing or perception systems, 
+- 👀 I’m interested in Computational Imaging and Computer Vision
+- 🌱 I’m currently learning about Neural Rendering and Generative AI
 - 📫 How to reach me: emir2903@gmail.com
